@@ -36,7 +36,7 @@ $pageTitle = "Bem-vindo à Minha Página PHP";
 <body>
     <div class="container">
         <h1><?php echo $pageTitle; ?></h1>
-        <p class="date">Hoje é dia<?php echo getCurrentDate(); ?></p>
+        <p class="date">Hoje é DIA TAL<?php echo getCurrentDate(); ?></p>
     </div>
 </body>
 </html>
