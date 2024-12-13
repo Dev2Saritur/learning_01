@@ -1,3 +1,7 @@
 function login (nome, email){
-    return "ok"
+    return nome
+}
+
+function mostraCidade (Cidade){
+    return Cidade
 }
