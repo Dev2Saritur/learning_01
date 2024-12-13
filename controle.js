@@ -1,4 +1,4 @@
-function login (nome, email){
+function login (nome){
     return nome
 }
 
