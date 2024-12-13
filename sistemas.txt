@@ -1,6 +1,4 @@
-Travando 
-Lento
-Melhorado
-Inserido mais funcoes
-Adicionado mais botoes
-Testado
+Windows
+Apple
+Solaris
+Android
