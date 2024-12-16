@@ -9,3 +9,9 @@ function mostraCidade (Cidade){
 function cpf (cpf){
     return cpf
 }
+
+function mostraCadastro (cadastro){
+    return cadastro
+}
+
+//Considerando modificacao na branch dev1
