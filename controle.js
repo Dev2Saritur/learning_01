@@ -14,4 +14,8 @@ function mostraCadastro (cadastro){
     return cadastro
 }
 
-//Considerando modificacao na branch dev1
+console.log (quadrado  (5));
+var quadrado = function (x) {
+
+    return x * x;
+};
