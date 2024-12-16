@@ -5,3 +5,7 @@ function login (nome){
 function mostraCidade (Cidade){
     return Cidade
 }
+
+function cpf (cpf){
+    return cpf
+}
