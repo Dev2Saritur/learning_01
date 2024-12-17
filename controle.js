@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 function login (nome){
     return nome
 }
@@ -19,3 +20,8 @@ var quadrado = function (x) {
 
     return x * x;
 };
+=======
+function login (nome, email){
+    return "ok"
+}
+>>>>>>> Stashed changes
