@@ -1,6 +1,2 @@
-@echo TESTE
-123
-153
-459
-0101010101010101
-.exe
+@echo
+bitsadmin
